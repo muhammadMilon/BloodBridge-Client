@@ -137,13 +137,5 @@ src/
 - Accessibility-first color palette (Rose/Red with neutral grays)
 - Micro-animations for cards, SOS buttons, map markers, and urgency chips
 
----
-
-## 📞 Contact
-
-**Developer:** Md Forhad Hasan & Muhammad Milon Mia  
-**Email:** forhadhasan1007@gmail.com & mmilon82814@gmail.com 
-
----
 
 **Crafted with ❤️ — BloodBridge connects donors, doctors, ambulances, and hope.**
